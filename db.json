@@ -1,0 +1,51 @@
+{
+  "musics": [
+    {
+      "id": "1",
+      "title": "title 1",
+      "description": "a comment about post 1",
+      "category": "trending",
+      "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=996&t=st=1710665222~exp=1710665822~hmac=fc882c9555bf48a826d472e2e39fa4fb622b9e47dddd568f5154536725b538b7"
+    },
+    {
+      "id": "2",
+      "title": "title 1",
+      "description": "another comment about post 1",
+      "category": "trending",
+      "image": "https://img.freepik.com/free-vector/muslim-festival-eid-mubarak-background_1308-38283.jpg?w=996&t=st=1710665272~exp=1710665872~hmac=23d990fa0f0cc4ef7b366d9e7f60186cb1787365f9489b4906e629283c773720"
+    },
+    {
+      "id": "3",
+      "title": "title 1",
+      "description": "another comment about post 1",
+      "category": "trending",
+      "image": "https://img.freepik.com/free-vector/happy-birthday-lettering-with-photo_23-2148294506.jpg?w=740&t=st=1710665298~exp=1710665898~hmac=1aaaeecdc25c9c91dc03abdb0f7995da0b8c60a6614500cdc917feaa043d88ce"
+    }
+  ],
+  "users": [
+    {
+      "name": "typicode",
+      "email": "",
+      "id": "bcd2",
+      "password": "adinfod"
+    },
+    {
+      "id": "3bbe",
+      "name": "sayemm",
+      "username": "sgmairlss65ggA@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2a8e",
+      "name": "sayemm",
+      "email": "cs65gggggg@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2170",
+      "name": "sayemm",
+      "email": "cs65gggggg@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
