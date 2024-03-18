@@ -1,51 +1,267 @@
-{
-  "musics": [
-    {
-      "id": "1",
-      "title": "title 1",
-      "description": "a comment about post 1",
-      "category": "trending",
-      "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=996&t=st=1710665222~exp=1710665822~hmac=fc882c9555bf48a826d472e2e39fa4fb622b9e47dddd568f5154536725b538b7"
+[
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "(Divide)",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 100,
+      "reddit": 50,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
     },
-    {
-      "id": "2",
-      "title": "title 1",
-      "description": "another comment about post 1",
-      "category": "trending",
-      "image": "https://img.freepik.com/free-vector/muslim-festival-eid-mubarak-background_1308-38283.jpg?w=996&t=st=1710665272~exp=1710665872~hmac=23d990fa0f0cc4ef7b366d9e7f60186cb1787365f9489b4906e629283c773720"
+    "image": "https://www.billboard.com/wp-content/uploads/2023/07/gloria-estefan-mi-tierra-cover-1993-billboard-1240.jpg?w=1024",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "God's Plan",
+    "artist": "Drake",
+    "album": "Scorpion",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 100,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
     },
-    {
-      "id": "3",
-      "title": "title 1",
-      "description": "another comment about post 1",
-      "category": "trending",
-      "image": "https://img.freepik.com/free-vector/happy-birthday-lettering-with-photo_23-2148294506.jpg?w=740&t=st=1710665298~exp=1710665898~hmac=1aaaeecdc25c9c91dc03abdb0f7995da0b8c60a6614500cdc917feaa043d88ce"
-    }
-  ],
-  "users": [
-    {
-      "name": "typicode",
-      "email": "",
-      "id": "bcd2",
-      "password": "adinfod"
+    "image": "https://www.billboard.com/wp-content/uploads/2023/07/mary-j-blige-my-life-1994-billboard-1240.jpg?w=1024",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Thank U, Next",
+    "artist": "Ariana Grande",
+    "album": "Thank U, Next",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
     },
-    {
-      "id": "3bbe",
-      "name": "sayemm",
-      "username": "sgmairlss65ggA@gmail.com",
-      "password": "1234"
+    "image": "https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg?w=1060&t=st=1710675491~exp=1710676091~hmac=3f3505eb4b4533e7e8e3fdf1a70131dbaa1ad32dd4a22c122a5b966583ec090c",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 100,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
     },
-    {
-      "id": "2a8e",
-      "name": "sayemm",
-      "email": "cs65gggggg@gmail.com",
-      "password": "1234"
+    "image": "https://www.billboard.com/wp-content/uploads/2023/07/blondie-parallel-lines-cover-1978-billboard-1240.jpg?w=1024",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "album": "When We All Fall Asleep",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
     },
-    {
-      "id": "2170",
-      "name": "sayemm",
-      "email": "cs65gggggg@gmail.com",
-      "password": "1234"
-    }
-  ]
-}
+    "image": "https://www.billboard.com/wp-content/uploads/2023/07/marvin-gaye-whats-going-on-1971-billboard-1240.jpg?w=1024",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Dance Monkey",
+    "artist": "Tones and I",
+    "album": "The Kids Are Coming",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 50,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://www.billboard.com/wp-content/uploads/2023/07/SZA-SOS-album-art-billboard-1240.jpg?w=1240",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "God Gave Me You",
+    "artist": "Blake Shelton",
+    "album": "Red River Blue",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 100,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://www.billboard.com/wp-content/uploads/2022/06/beyonce-Lemonade-album-art-billboard-1240.jpg?w=1024",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "24K Magic",
+    "artist": "Bruno Mars",
+    "album": "24K Magic",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://www.billboard.com/wp-content/uploads/2022/03/37.-Madonna-%E2%80%98True-Blue-1986-album-cover-billboard-1240.jpg?w=1032"
+  },
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "Divide",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://www.billboard.com/wp-content/uploads/2022/03/46.-Funkadelic-%E2%80%98Maggot-Brain-1971-album-art-billboard-1240.jpg?w=1024",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Circles",
+    "artist": "Post Malone",
+    "album": "Hollywood's Bleeding",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://www.billboard.com/wp-content/uploads/2023/07/haroumi-hosono-philharmony-cover-1982-billboard-1240.jpg?w=1024",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "God's Plan",
+    "artist": "Drake",
+    "album": "Scorpion",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://www.billboard.com/wp-content/uploads/2022/03/42.-Nicki-Minaj-%E2%80%98The-Pinkprint-2014-album-art-billboard-1240.jpg?w=1024",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "HUMBLE.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://www.billboard.com/wp-content/uploads/media/Young-Thug-Jeffery-2016-billboard-1240.jpg?w=1024",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Formation",
+    "artist": "Beyoncé",
+    "album": "Lemonade",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://www.billboard.com/wp-content/uploads/2023/07/yoko-ono-season-of-glass-cover-1981-billboard-800.jpg.jpg?w=800",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  },
+  {
+    "title": "Starboy",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "type": "trending",
+    "genre": "Genre 1",
+    "duration": "3:45",
+    "year": "2022",
+    "ratings": {
+      "fb": 200,
+      "reddit": 100,
+      "share": "4k",
+      "tel": 400,
+      "whatsapp": 45,
+      "msgr": 400
+    },
+    "image": "https://www.billboard.com/wp-content/uploads/2023/07/the-white-stripes-elephant-cover-2003-billboard-1240.jpg?w=1024",
+    "descriptions": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English."
+  }
+]
