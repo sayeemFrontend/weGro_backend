@@ -11,39 +11,41 @@ Follow these steps to get the application running on your local machine:
 
 1.  Clone this repository to your local machine:
 
-    git clone https://github.com/sayeemFrontend/weGro_backend.git
+        git clone https://github.com/sayeemFrontend/weGro_backend.git
 
 2.  Navigate to the project directory:
 
-    cd weGro_backend
+        cd weGro_backend
 
 3.  Install dependencies:
 
-    npm install
+        npm install
 
 4.  Environment Setup
 
-# Create .env file in base directory
+    Create .env file in base directory
 
-# define following variables in .env file
+    define following variables in .env file
 
         S_KEY= 'secret_key'
         PORT=5001
 
 5.  Start the application:
 
-    npm start
+        npm start
 
-6.  open postman to check following apis
+6.  Open postman to check following apis
 
-    POST: http://localhost:5001/api/login
-    POST: http://localhost:5001/api/register
-    GET: http://localhost:5001/api/musics
+        POST: http://localhost:5001/api/login
+        POST: http://localhost:5001/api/register
+        GET: http://localhost:5001/api/musics
 
-# if you have set a different PORT replace 5001 by your PORT and check.
 
-## To check api in product you can use
+ 7.  if you have set a different PORT then replace 5001 by your PORT and check from postman. You must need to update the .env file for frontend application with your PORT, otherwise data will not be available in frontend.
 
-    POST: https://wegro-music-api.onrender.com/api/login
-    POST: https://wegro-music-api.onrender.com/api/register
-    GET: https://wegro-music-api.onrender.com/api/musics
+
+8. Use following APIs for production mode
+
+        POST: https://wegro-music-api.onrender.com/api/login
+        POST: https://wegro-music-api.onrender.com/api/register
+        GET: https://wegro-music-api.onrender.com/api/musics
