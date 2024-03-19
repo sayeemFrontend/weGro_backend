@@ -23,9 +23,9 @@ Follow these steps to get the application running on your local machine:
 
 4.  Environment Setup
 
-    Create .env file in base directory
+# Create .env file in base directory
 
-    define following variables in .env file
+# define following variables in .env file
 
         S_KEY= 'secret_key'
         PORT=5001
@@ -34,12 +34,16 @@ Follow these steps to get the application running on your local machine:
 
     npm start
 
-open postman to check following apis
+6.  open postman to check following apis
 
-POST: http://localhost:5001/api/login
-POST: http://localhost:5001/api/register
-GET: http://localhost:5001/api/musics
+    POST: http://localhost:5001/api/login
+    POST: http://localhost:5001/api/register
+    GET: http://localhost:5001/api/musics
 
-if you have set a different PORT replace 5001 by your PORT and check.
+# if you have set a different PORT replace 5001 by your PORT and check.
 
-To check api in product you can use
+## To check api in product you can use
+
+    POST: https://wegro-music-api.onrender.com/api/login
+    POST: https://wegro-music-api.onrender.com/api/register
+    GET: https://wegro-music-api.onrender.com/api/musics
