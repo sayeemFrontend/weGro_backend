@@ -4,7 +4,7 @@ const cors = require('cors');
 const { musicController } = require('./controllers/musicControllers');
 const { loginController, signupController } = require('./controllers/authControllers');
 const app = express();
-const port = process.env.PORT;
+const port = process.env.PORT || 3001;
 
 app.use(cors());
 app.use(express.json());
