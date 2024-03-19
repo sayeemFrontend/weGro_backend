@@ -29,7 +29,7 @@ Follow these steps to get the application running on your local machine:
 
 open postman to check following apis
 
-    http://localhost:5001/api/login
-    http://localhost:5001/api/register
-    http://localhost:5001/api/musics
+  POST: http://localhost:5001/api/login
+  POST: http://localhost:5001/api/register
+  GET:  http://localhost:5001/api/musics
 
